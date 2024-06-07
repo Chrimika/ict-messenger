@@ -1,0 +1,9 @@
+<resources>
+    <string name="realm_app_id">application-0-wnxqgic</string>
+    <string name="realm_app_url">https://services.cloud.mongodb.com/groups/65cd47778f2cd8465432fc1c/apps/66556e419985880a9872f6a8</string>
+    <string name="realm_base_url">https://services.cloud.mongodb.com</string>
+    <string name="realm_client_api_base_url">https://eu-central-1.aws.services.cloud.mongodb.com</string>
+    <string name="realm_data_api_base_url">https://eu-central-1.aws.data.mongodb-api.com</string>
+    <string name="realm_data_explorer_link">https://cloud.mongodb.com/links/65cd47778f2cd8465432fc1c/explorer/fullstack-mern/database/collection/find</string>
+    <string name="realm_data_source_name">mongodb-atlas</string>
+</resources>
